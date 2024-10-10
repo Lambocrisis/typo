@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: "Literata";
+  font-family: '思源宋体 CN','思源宋体','Source Han Serif';
   margin: auto;
   max-width: var(--main-width);
   padding-left: var(--main-padding);
@@ -89,7 +89,7 @@ code {
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
   font-variant-ligatures: contextual;
-  font-family: "Monaspace";
+  font-family: "MapleMono-SC-NF";
   font-size: .9em;
   line-height: 0;
 }
@@ -152,7 +152,7 @@ footer {
 }
 
 footer a {
-  font-family: "Monaspace";
+  font-family: "MapleMono-SC-NF";
   margin-left: .2rem;
   margin-right: .2rem;
 }
@@ -178,7 +178,7 @@ footer a {
 
 .line-date {
   font-size: small;
-  font-family: "Monaspace";
+  font-family: "MapleMono-SC-NF";
   min-width: 120px;
   max-width: 120px;
   text-align: right;
@@ -452,7 +452,7 @@ figcaption {
 /* breadcrumbs */
 
 .breadcrumbs {
-  /* font-family: "Monaspace"; */
+  /* font-family: "MapleMono-SC-NF"; */
   font-size: .8em;
   margin-bottom: calc(-0.5 * var(--h1-margin-top));
 }
@@ -467,7 +467,7 @@ figcaption {
 
 .back-to-top {
   text-align: center;
-  font-family: "Monaspace";
+  font-family: "MapleMono-SC-NF";
   font-size: small;
   margin-bottom: 2rem;
   /* margin-top: -3rem; */
